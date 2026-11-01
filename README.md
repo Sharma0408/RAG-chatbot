@@ -6,7 +6,7 @@ A Retrieval-Augmented Generation (RAG) pipeline that lets you ask natural langua
 
 - Upload any PDF
 - Ask questions in plain English
-- Get accurate answers based strictly on the document content
+- Get accurate answers grounded in the document content
 - See exactly which pages the answer came from
 
 ## Tech Stack
