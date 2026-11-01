@@ -17,7 +17,7 @@ A Retrieval-Augmented Generation (RAG) pipeline that lets you ask natural langua
 - **Google Gemini 2.5 Flash** — LLM for answer generation
 - **PyPDF** — PDF loading and parsing
 - **Python / Google Colab** — development environment
-- 
+
 ## How it works
 
 1. PDF is loaded and split into 500-character overlapping chunks
